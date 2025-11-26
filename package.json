@@ -1,0 +1,23 @@
+{
+  "name": "new_playwright_course",
+  "version": "1.0.0",
+  "description": "NEW_PLAYWRIGHT_COURSE Readme in repository",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriklabic/NEW_PLAYWRIGHT_COURSE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/patriklabic/NEW_PLAYWRIGHT_COURSE/issues"
+  },
+  "homepage": "https://github.com/patriklabic/NEW_PLAYWRIGHT_COURSE#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
