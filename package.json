@@ -19,5 +19,13 @@
   "devDependencies": {
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.10.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
+    "playwright": "^1.57.0"
   }
 }

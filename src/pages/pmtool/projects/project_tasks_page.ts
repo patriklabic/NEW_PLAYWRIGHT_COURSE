@@ -22,6 +22,6 @@ export class ProjectTasksPage {
 
   async clickLogout() {
     await this.logoutButton.click();
-    return LoginPage(this.page);
+    return new LoginPage(this.page);
   }
 }
